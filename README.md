@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: Jose Angel Villalon
+Autor: Jose Angel Villalon.
 Fecha 7 de Febrero
